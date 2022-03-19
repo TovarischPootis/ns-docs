@@ -36,4 +36,4 @@ If you do not have one already, it is highly recommended to use an editor to dev
 3. [Visual Studio Code](https://code.visualstudio.com/)
 4. [Notepad++](https://notepad-plus-plus.org/)
 
-Once you have both the framework and schema downloaded, head over to [Installing the Framework/Schema](installation/Installing_the_Framework_and_Schema.md).
+Once you have both the framework and schema downloaded, head over to [Installing the Framework/Schema.](installation/Installing_the_Framework_and_Schema.md)
