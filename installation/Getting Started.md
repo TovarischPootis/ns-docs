@@ -2,7 +2,7 @@ NutScript was created by Chessnut and Black Tea as a DRM-free and open source ro
 
 To fully use NutScript, you need the framework and a schema.
 
-## Frameworks
+### Frameworks
 
 There are currently 3 versions of the NutScript framework available:
 
@@ -15,7 +15,7 @@ There are currently 3 versions of the NutScript framework available:
 
 There also exists the [NutScript 1.1-beta](https://github.com/rebel1324/NutScript/tree/1.1-beta) version, however, it is simply Version 1.2 in early stages of development. As such, any plugin that is made for 1.1-beta is fully compatible with 1.2 (but not 1.1 or 1.0).
 
-## Schemas
+### Schemas
 
 It is highly recommended to create your own schema, as you will have full control and understanding of what the schema does. To do so, it is recommended to download the [skeleton schema](https://github.com/NutScript/skeleton-schema) and start from there.
 
@@ -24,7 +24,7 @@ However, there are also numerous premade schemas that publicly exist, and you ca
 1. [Respite by Chancerawr](https://github.com/Chancerawr/respite)
 2. [Metro 2033 by ts-co/Pilot](https://github.com/ts-co/Metro-2033)
 
-## Editors
+### Editors
 
 If you do not have one already, it is highly recommended to use an editor to develop your code. A few recommended editors are:
 
