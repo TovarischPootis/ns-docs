@@ -1,6 +1,3 @@
-
-# Getting Started
-
 NutScript was created by Chessnut and Black Tea as a DRM-free and open source roleplaying framework. Currently, it is being maintained by the NutScript Community.
 
 To fully use NutScript, you need the framework and a schema.
