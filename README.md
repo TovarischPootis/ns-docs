@@ -16,6 +16,7 @@ When you make a folder on the repo, it will create a category on the website:
 When you make file (!! must be .md for markdown !!) in the category folder, that file will be displayed on the website.
 ### Repo
 ![image](https://user-images.githubusercontent.com/20385440/159105724-ea65521b-0cfe-44d1-94d8-5905975f340f.png)
+![image](https://user-images.githubusercontent.com/20385440/159105847-6a6f7d33-4535-4fe5-bb23-caee25483443.png)
 
 ### Website
 ![image](https://user-images.githubusercontent.com/20385440/159105765-966445fa-c609-42c2-89ee-b62480592809.png)
