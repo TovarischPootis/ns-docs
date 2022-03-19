@@ -3,6 +3,7 @@ This is the Nutscript documentation repo. All you need to do is create a folder 
 Each category can handle multiple pages/sections. Use GitHub markdown in .md the page/section files (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 Note: Each category will automatically populate with a table of contents, so don't worry about that.
+Also, try to keep a uniform style please. No giant headers where they are not necessary. A section header will automatically populate.
 
 ## Categories
 When you make a folder on the repo, it will create a category on the website:
