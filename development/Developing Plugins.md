@@ -74,6 +74,6 @@ Advantages of using PLUGIN:
     is a table that is available (within the respective realm) to all files/scopes within the plugin, as well as accessible from other plugins (```nut.plugin.list.permadeath.curEnts```).
 ## **Example**
 
-An example of a plugin creation can be found [here](development_examples/Plugin_Example.md).
+An example of a plugin creation can be found [here](../development%20examples/Plugin%20Example.md).
 
 _**It is recommended that you use plugins as puzzle pieces that fit into your gamemode. Creating plugins not only makes it easier to develop and enhance sections of your gamemode, your schema will remain organized as it gets larger.**_

@@ -39,4 +39,4 @@ Once you have both the framework and schema downloaded, locate the gamemodes fol
 
 ### Congratulations, you have successfully installed NutScript
 
-If you wish to further develop and/or modify your schema and gamemode, carry on over to [Developing the Schema](development/Developing_the_Schema.md).
+If you wish to further develop and/or modify your schema and gamemode, carry on over to [Developing the Schema](../development/Developing%20the%20Schema.md).

@@ -189,4 +189,4 @@ Keep in mind that if you want to add folders that are default to nutscript, such
 
 ## **Developing Plugins**
 
-If you wish to create your own plugins, in order to keep the schema modular and organized, head over to [Developing Plugins](development/developingplugins.md).
+If you wish to create your own plugins, in order to keep the schema modular and organized, head over to [Developing Plugins](Developing%20Plugins.md).
